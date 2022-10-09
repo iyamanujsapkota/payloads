@@ -1,6 +1,8 @@
 # Payloads
 This repo will contain cybersecurity payloads for vulnerabilities 🚀
 
+- [Critical Files](./payloads/criticalFiles.txt)
+
 ## Contributing 
 
 Before contribution, please check [contributing guidelines](https://github.com/iyamanujsapkota/payloads/blob/main/CONTRIBUTING.md)
